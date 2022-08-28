@@ -4,6 +4,10 @@
 
 ---
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ow3rvkk5wa3dw2jivrkzrfz32y&cover_image=true&theme=novatorem&bar_color=ff0000&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+---
+
 <h5 align="center">A passionate developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itzbxby" alt="itzbxby" /></a> </p>
