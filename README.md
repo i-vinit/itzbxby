@@ -2,6 +2,8 @@
 
 <img align="center" alt="BxBY" src="https://media.discordapp.net/attachments/967374237599948890/974407949306970214/Picsart_22-05-13_01-59-09-095.png"/>
 
+![Discord](https://discord.c99.nl/widget/theme-3/936577273526644736.png)
+
 ---
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ow3rvkk5wa3dw2jivrkzrfz32y&cover_image=true&theme=novatorem&bar_color=ff0000&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
