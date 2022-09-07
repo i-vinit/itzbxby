@@ -1,6 +1,4 @@
-<h1 align="center">Hey <img height="30px" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am</h1>
-
-<img align="center" alt="BxBY" src="https://media.discordapp.net/attachments/967374237599948890/974407949306970214/Picsart_22-05-13_01-59-09-095.png"/>
+<h1 align="center">Hey <img height="30px" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am BxBY</h1>
 
 ![Discord](https://discord.c99.nl/widget/theme-3/936577273526644736.png)
 
